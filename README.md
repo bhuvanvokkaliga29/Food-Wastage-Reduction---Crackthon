@@ -6,7 +6,8 @@
 
 ---
 my previous works: Linkdin:https://www.linkedin.com/in/bhuvan-gowda-h-k-4ba8b5318
-GitHub 
+
+GitHub : https://github.com/bhuvanvokkaliga29
 ## 🌟 Project Overview
 
 The **Food Wastage Reduction App** bridges the gap between **food donors** and **receivers (NGOs, old-age homes, orphanages, etc.)**.  
