@@ -20,7 +20,15 @@ Our system creates a **transparent, easy-to-use donation platform** where verifi
 
 ---
 📷 **Screenshots Folder:** `/demo/`📷 **Screenshots Folder:** `/demo/`
-📽️ **Demo Video:** [Upload your video link here (e.g., YouTube / Drive)] 
+![WhatsApp Image 2025-11-05 at 13 50 55_e21c0592](https://github.com/user-attachments/assets/70c682d5-10eb-4f6d-a1cd-68f525fe0330)
+![WhatsApp Image 2025-11-05 at 13 50 55_886e61fe](https://github.com/user-attachments/assets/d4269730-74b8-4da6-b4ca-e64fcb5ffeae)
+![WhatsApp Image 2025-11-05 at 13 50 54_4b38c881](https://github.com/user-attachments/assets/dc3c762e-346f-48cc-92de-128868f66e8f)
+![WhatsApp Image 2025-11-05 at 13 55 05_0f5feaad](https://github.com/user-attachments/assets/96b50363-dda4-4f81-b366-579d41dffdd3)
+<img width="1515" height="766" alt="Screenshot 2025-11-05 140342" src="https://github.com/user-attachments/assets/8e767f88-82d8-4db2-9622-5e76e51d53c2" />
+<img width="1415" height="585" alt="Screenshot 2025-11-05 140354" src="https://github.com/user-attachments/assets/8d22e1e2-46c9-444a-8f1d-bcc66095f2ae" />
+
+
+
 
 
 ## 💡 Key Features
@@ -60,7 +68,7 @@ Our system creates a **transparent, easy-to-use donation platform** where verifi
 - 100+ donor listings near **SVIT College, Rajankunte, Bengaluru**
 - Example Donors:
   - *Hotel Green Leaf*, Rajankunte
-  - *SVIT College Canteen*
+  - *AMC College Canteen*
   - *Sri Lakshmi Marriage Hall*
   - *Taj Foods Pvt Ltd (Corporate Mess)*
   - *Biryani House, Yelahanka*
@@ -144,21 +152,3 @@ Copy code
 ✅ Promote eco-friendly practices
 ✅ Create transparent food-sharing network
 
-🏆 Hackathon Highlights
-Government & NGO Integrated
-
-100+ Mock Donor Listings
-👨‍💻 Developed By
-Team Trust Builders – AMC Engineering College, Bengaluru
-📜 License
-This project is open-source for educational and hackathon use.
-All NGO and donor names in the mock data are for demo purposes only.
-
-
-yaml
-Copy code
-
----
-
-Would you like me to also give you a **`mock_data.json` file (100+ donors and receivers)** to upload along with the README?  
-I can generate it automatically and format it perfectly for your Bolt app.
