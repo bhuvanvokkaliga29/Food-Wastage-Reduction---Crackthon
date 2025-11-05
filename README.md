@@ -65,7 +65,7 @@ Our system creates a **transparent, easy-to-use donation platform** where verifi
 - Transparent tracking of donations for public welfare records
 
 ### 🧾 Mock Data Included
-- 100+ donor listings near **SVIT College, Rajankunte, Bengaluru**
+- 100+ donor listings near **AMC College, Rajankunte, Bengaluru**
 - Example Donors:
   - *Hotel Green Leaf*, Rajankunte
   - *AMC College Canteen*
@@ -102,9 +102,9 @@ Our system creates a **transparent, easy-to-use donation platform** where verifi
 | Database | MongoDB (Mock Data + Bolt Auto Data Generation) |
 | Location | Google Maps API |
 | Authentication | OTP Demo Login (Auto-success for testing) |
-| Mock Data | Bolt-generated JSON (100+ donors/receivers) |
+| Mock Data | generated JSON (100+ donors/receivers) |
 | Theme | Green & White (Eco-friendly) |
-| Hosting | Bolt / Render / Vercel (Demo) |
+| Hosting | Render / Vercel (Demo) |
 
 
 
